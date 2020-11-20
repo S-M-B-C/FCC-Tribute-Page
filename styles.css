@@ -1,0 +1,45 @@
+#body{
+    background: 	hsl(0, 0%, 85%);
+    font-family: Sans-Serif;
+  }
+  #title{
+    text-align: center;
+    font-weight: bold;
+  }
+  #title-text{
+      text-align: center;
+      padding-bottom: 15px;
+  }
+  #image{
+      max-width: 100%;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+  }
+  #img-div{
+        background: white;
+  }
+  #img-caption{
+    text-align: center;
+    padding: 15px;
+  }
+  #tribute{
+      max-width: 75%;
+      margin-left: auto;
+      margin-right: auto;
+  }
+  #tribute-title{
+    text-align:center;
+    padding: 25px;
+  }
+  /* Selects the Ul list itens. Useful for when you have multiple ULs on your page.*/
+  #tribute-ul li{
+    padding: 10px;
+    text-align: justify;
+  
+  }
+  #tribute-link{
+    padding: 25px;
+    display: block;
+    text-align: center;
+  }
